@@ -1,0 +1,19 @@
+{
+  "id": "storage",
+  "version": "0.1.0",
+  "name": "Storage",
+  "description": {
+    "en_us": "A MCDR storage plugin",
+    "zh_cn": "一个MCDR数据存储插件"
+  },
+  "author": "zyxkad",
+  "link": "https://github.com/kmcsr/storage_mcdr",
+  "dependencies": {
+    "mcdreforged": ">=2.0.0",
+    "kpi": ">=1.2.0"
+  },
+  "resources": [
+    "LICENSE",
+    "lang"
+  ]
+}
